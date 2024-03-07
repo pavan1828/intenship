@@ -22,7 +22,7 @@ Results Display:
 - Rendered matched strings on HTML.
 
 Testing:
-- Run Flask app, tested at http://3.95.60.148:5000/.
+- Run Flask app, tested at http://13.60.15.216:5000/
 
 Additional Feature:
 - Implemented email ID validation.
